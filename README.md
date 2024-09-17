@@ -1,2 +1,2 @@
-# weareAMBERSTOCKMARKET
+# TwitchStockMarket
 sigh
